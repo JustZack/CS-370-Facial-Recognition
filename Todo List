@@ -1,0 +1,8 @@
+Here are a couple of things we need to do to get started:
+
+1: upload most recent OpenCV library to repository.
+2: Create a make file to compile everything we need, or use dll files.
+3: Get link to comprehensive guide to facial recognition with openCV.
+4: Add more stuff here
+...
+n: Project is over!
