@@ -1,0 +1,7 @@
+
+“7-step tutorial” —-> https://thinkrpi.wordpress.com/2013/05/22/opencv-and-camera-board-csi/
+
+Also, I found this web page to be very insightful/helpful —> https://realpython.com/face-recognition-with-python/
+    Here is the direct link to the github repository this guy uses: https://github.com/shantnu/FaceDetect/
+    
+    Also, the CS machines have openCV preinstalled (for python atleast) so you can ssh in try out those scripts!
