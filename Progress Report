@@ -1,0 +1,31 @@
+From the project PDF...
+
+"...
+  D2. Progress report
+   
+    At this point you must have acquired and installed all the software and hardware needed and should have
+    made some progress in developing the code needed. You need to include proof that you have acquired
+    the board and any hardware needed. The report will describe the status of the project. You should also
+    mention which attribute of your project you propose to evaluate. You must evaluate at least one of these.
+      
+      Limitations like resolution, accuracy or response time
+      Potential security holes and how they can be mitigated
+      Power consumption estimates of the device
+      Cost and marketability of a device based on your project
+..."
+
+  First draft of written response:
+  
+  We have acquired the Raspberry Pi aswell as the webcam for it. We forgot that the Raspberry pi requires a micro SD
+  card for the OS as well as storage, so that has just arrived. All we need to install is Rasbian and openCV. We have
+  located some helpful tutorials that guide us through using openCV, and have began developing code. We may choose
+  to switch over to using python rather than C/C++ due to its simplicity and power. Overall our project is going well,
+  and may end up being a simpler process than we previously thought.
+  
+  That paragraph is just a draft, please edit the shit out of it!
+  I think the easiest way to evaluate our project would be accuracy and response time. It is pretty clear that a 
+  Raspberry pi with its small camera wont be super high res and therefore acurate. I am VERY excited to get the PI
+  working with some simple code to recognize faces. Maybe we can figure out a way to make it mobile so we can walk 
+  around with and it try to build a repository of faces. We could add some sort of indicator light for when a face is
+  recognized. Maybe we can get it to identify faces in real time and say when it saw that face last? 
+  Just some ideas bouncing around my head.
