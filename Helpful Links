@@ -5,3 +5,8 @@ Also, I found this web page to be very insightful/helpful —> https://realpytho
     Here is the direct link to the github repository this guy uses: https://github.com/shantnu/FaceDetect/
     
     Also, the CS machines have openCV preinstalled (for python atleast) so you can ssh in try out those scripts!
+    
+    
+Installation links:
+Open Cv site: https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html
+Stack overflow question for python 3(.4): https://stackoverflow.com/questions/42638342/cannot-install-opencv-3-1-0-with-python3-cmake-not-including-or-linking-python
